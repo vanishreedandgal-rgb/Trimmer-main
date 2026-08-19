@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ad99ff66-79a9-4bb1-89de-3dd107875aa4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 83.82 93.98)
+		(size 54.61 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 245 184 1)
+		)
+		(uuid "01600781-fcd3-4f9b-abd1-326a999083b8")
+		(property "Sheetname" "CHARGING"
+			(at 83.82 92.6334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "charging crcuit.kicad_sch"
+			(at 83.82 126.3146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Trimmer main"
+				(path "/ad99ff66-79a9-4bb1-89de-3dd107875aa4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 93.98)
+		(size 54.61 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 246 171 1)
+		)
+		(uuid "1b797bbc-2ca0-409f-82d4-69967ec6c829")
+		(property "Sheetname" "INPUT"
+			(at 21.59 92.6334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INPUT SECTION/INPUT SECTION.kicad_sch"
+			(at 21.59 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Trimmer main"
+				(path "/ad99ff66-79a9-4bb1-89de-3dd107875aa4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 151.13 93.98)
+		(size 54.61 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 248 184 1)
+		)
+		(uuid "2bafb981-055b-452e-9cc3-6fc8ab018f55")
+		(property "Sheetname" "POWER"
+			(at 151.13 92.6334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER SECTION.kicad_sch"
+			(at 151.13 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Trimmer main"
+				(path "/ad99ff66-79a9-4bb1-89de-3dd107875aa4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 217.17 93.98)
+		(size 50.8 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 244 190 1)
+		)
+		(uuid "892704ee-7d16-4e31-ba3e-b217d968dbb4")
+		(property "Sheetname" "MOTOR"
+			(at 217.17 92.6334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOTOR SECTION.kicad_sch"
+			(at 217.17 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Trimmer main"
+				(path "/ad99ff66-79a9-4bb1-89de-3dd107875aa4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
